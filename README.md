@@ -1,0 +1,1 @@
+SOREL Research imagerY (SORRY) dataset is a dataset created as part of Malware Detection Using Visualization Technique master thesis. It consists of 7700 training and 3850 testing malware samples from the original SOREL-20M dataset, converted into RGB images.
