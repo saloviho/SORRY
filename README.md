@@ -16,6 +16,9 @@ This repository contains a dataset of malware samples represented as images, alo
 - **scripts/**: Folder containing scripts for dataset handling.
   - **dataset.py**: Script to download and create the dataset
   - **malware2image.py**: Script to convert any binary file into image
+- **jupyter/**: Folder containing jupyter notebooks.
+  - **XXX.py**: TODO
+  - **XXX.py**: TODO
 
 You can download the SOREL-20M metadata meta.db from the following link:
 
