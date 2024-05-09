@@ -17,8 +17,8 @@ This repository contains a dataset of malware samples represented as images, alo
   - **dataset.py**: Script to download and create the dataset
   - **malware2image.py**: Script to convert any binary file into image
 - **jupyter/**: Folder containing jupyter notebooks.
-  - **XXX.py**: TODO
-  - **XXX.py**: TODO
+  - **saloviho-DP-mobilenetv2-example.ipynb**: Example jupyter notebook that contains code for training MobileNetV2 and evaluating the results (increase the epoch amount for better accuracy).
+  
 
 You can download the SOREL-20M metadata meta.db from the following link:
 
