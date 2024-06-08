@@ -17,8 +17,12 @@ This repository contains a dataset of malware samples represented as images, alo
   - **dataset.py**: Script to download and create the dataset
   - **malware2image.py**: Script to convert any binary file into image
 - **jupyter/**: Folder containing jupyter notebooks.
-  - **saloviho-DP-mobilenetv2-example.ipynb**: Example jupyter notebook that contains code for training MobileNetV2 and evaluating the results for 300x300 Malevis images (increase the epoch amount for better accuracy).
-  
+  - **saloviho-DP-mobilenetv2-example.ipynb**: Example jupyter notebook that contains code for training MobileNetV2 and evaluating the results for 300x300 Malevis images
+  - **saloviho-DP-mobilenetv2-malevis-multiclass.ipynb**: MobileNetV2 + 300x300 Malevis 26 class classification
+  - **saloviho-DP-mobilenetv2-malevis-binary.ipynb**: MobileNetV2 + 300x300 Malevis + bening samples from SORRY dataset (binary) 
+  - **saloviho-DP-mobilenetv2-SORRY-binary.ipynb**: MobileNetV2 + 300x300 SORRY + bening samples from Malevis dataset (binary) 
+  - **saloviho-DP-RF-SORRY-ember-binary.ipynb**: RandomForest + EMBER features extracted from the SORRY dataset
+- **saloviho-malware-visualization.pdf**: PDF presentation  
 
 You can download the SOREL-20M metadata meta.db from the following link:
 
